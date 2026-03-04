@@ -26,16 +26,16 @@ It is designed to help teams communicate effectively with English-speaking clien
 
 ## Project Structure
 
-TalkSync/
-│
-├── streamlit_app.py
-├── requirements.txt
-├── app/
-│   ├── config.py
-│   ├── services/
-│   └── core/
-├── demo_data/
-
+TalkSync/   
+│    
+├── streamlit_app.py     
+├── requirements.txt    
+├── app/       
+│   ├── config.py    
+│   ├── services/   
+│   └── core/    
+├── demo_data/    
+    
 ## How to Run
 
 1. Install dependencies:
